@@ -1,7 +1,7 @@
 # DAY 3
 
 ### Today we are going to learn about:
-- Conditional statemnts
+		* - Conditional statemnts
 		
 		* # if / else statement
 
