@@ -2,7 +2,7 @@
 
 ### Today we are going to learn about:
 
-# Conditional statemnts
+# Conditional statements
 #### if / else statement
 * Syntax:
 		
@@ -18,16 +18,17 @@
 * Syntax
 
 		if condition:
-    			do this
-    		if condition:
 			do this
-    		else:
+		if condition:
+			do this
+ 		else:
 			do this
 		else:
-    			do this
+ 			do this
 
 #### if/ elif/ else statement
 * syntax
+		
 		if condition1:
 			do A
 		elif condition2:
