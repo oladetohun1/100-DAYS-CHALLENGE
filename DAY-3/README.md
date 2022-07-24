@@ -3,50 +3,53 @@
 ### Today we are going to learn about:
 - Conditional statemnts
 '''
-# if / else statement
-if condition:
-    do this
-else:
-    do this
 
-# Nested if / else statement
-<i> SYntax </i>
-if condition:
-    do this
-    if condition:
-	do this
-    else:
-	do this
-else:
-    do this
+* # if / else statement
 
-# if/ elif/ else
-if condition1:
-	do A
-elif condition2:
-	Do B
-else"
-	Do this
+		if condition:
+    			do this
+		else:
+    			do this
+
+* # Nested if / else statement
+
+* <i> SYntax </i>
+		if condition:
+    			do this
+    		if condition:
+			do this
+    		else:
+			do this
+		else:
+    			do this
+
+* # if/ elif/ else
+		if condition1:
+			do A
+		elif condition2:
+			Do B
+		else:
+			Do this
 '''
 
 - Logical Operators
 
+
 '''
 # comparison operators
 
+| `operators`  | `Meaning`                  |
 | ------------ | -------------------------- |
-| 'operators'  | 'Meaning'                  |
-| ------------ | -------------------------- |
-|    '>'       | 'Greater than'             |
-| ------------ | -------------------------- |
-|    '<'       | 'Less than'                |
-| ------------ | -------------------------- |
-|    '>='      | 'Greater than or equal to' |
-| ------------ | -------------------------- |
-|    '<='      | 'Less than or equal to'    |
-| ------------ | -------------------------- | 
+|    `>`       | 'Greater than`             |
+|              |                            |
+|    `<`       | `Less than`                |
+|              |                            |
+|    `>=`      | `Greater than or equal to` |
+|              |                            |
+|    `<=`      | `Less than or equal to`    |
+|              |                            | 
 
-'''`
+'''
 
 - Code Blocks
 - Scope
