@@ -44,7 +44,7 @@
 
 | `operators`  | `Meaning`                  |
 | ------------ | -------------------------- |
-|    `>`       | 'Greater than`             |
+|    `>`       | `Greater than`             |
 |              |                            |
 |    `<`       | `Less than`                |
 |              |                            |
