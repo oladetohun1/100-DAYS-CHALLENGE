@@ -2,18 +2,18 @@
 
 ### Today we are going to learn about:
 - Conditional statemnts
-'''
-
-* # if / else statement
+		
+		* # if / else statement
 
 		if condition:
-    			do this
+			do this
 		else:
-    			do this
+			do this
 
 * # Nested if / else statement
 
 * <i> SYntax </i>
+
 		if condition:
     			do this
     		if condition:
